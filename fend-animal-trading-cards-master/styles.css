@@ -1,6 +1,6 @@
 /* add your CSS here */
 
-.card-container{
+.card-container {
   -webkit-box-shadow: 2px 5px 5px rgba(192,192,192,0.5);
   -moz-box-shadow: 2px 5px 5px rgba(192,192,192,0.5);
   box-shadow: 2px 5px 5px rgba(192,192,192,5);
@@ -12,7 +12,7 @@
 
 .list-animal {
   list-style-type: none;
-  padding:0;
+  padding: 0;
 }
 
 .animal-picture {
